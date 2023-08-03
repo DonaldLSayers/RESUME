@@ -43,7 +43,7 @@ instagram_username: DonaldSayers
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: 
+about_title:
 about_profile_image: images/Donald Sayers.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Donald I'm an IT manager for a company of 150+ people. As well as working in IT, I like to make things and tinker with electronics. I ran an independent computer repair company for about 15 years.
@@ -114,15 +114,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Middle Tennessee State University
+        caption: 2006 - 2007
+        sub_title: Incomplete
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          At MTSU I was in the music program, and was studying computer science.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Chattanooga State Community College
+        caption: 2009 - 2010
+        sub_title: Incomplete
+        description: | # this will include new lines to allow paragraphs
+          Studied computer science and took some cources in drafting and 3D CAD.
+
+
+
 
   - title: A Little More About Me
     layout: text
