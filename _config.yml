@@ -75,8 +75,6 @@ content:
     content:
       - layout: left
         title: Chattanooga Fire Protection
-        #link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: IT Manager
         caption: 2021 - Present
         quote: >
@@ -84,12 +82,11 @@ content:
         description: | # this will include new lines to allow paragraphs
             I manage all the IT needs for the company. Deploying phones and laptops and managing our networks and servers. A large part of the job has been streamlining existing processes. I've digitized timesheets, workorders, billing, and many other things that were all being done on paper.
 
-            It's been a huge challenge to get everyone on board but undertaking the task has been fun and rewarding.
+            It's been a huge challenge to get everyone onboard, but undertaking the task has been fun and rewarding.
 
       - layout: left
         title: iFixie Computer Repair
         link: ifixie.com
-        # link_text: boringcompany.com
         sub_title: Owner
         caption: 2009 - 2021
         quote: >
@@ -97,6 +94,13 @@ content:
         description: | # this will include new lines to allow paragraphs
             I ran a computer repair shop in the downtown area. I repaired Macs and PCs as well as doing onsite work for homes and businesses. Onsite I set up networks, servers and home theater systems. Running this business was a very rewarding endeavor, I was able to learn new things and enjoyed the problem-solving challenges I was greeted with every day.
 
+      - layout: left
+        title: Medium
+        #link: thisismedium.com/
+        sub_title: Creative Director
+        caption: 2010 - 2011
+        description: | # this will include new lines to allow paragraphs
+            Medium was a bootcamp for learning development and design. I learned here that I work best with a challenge. I worked with clients, developers and designers to make sure that our clients’ needs were met and exceeded. Working in such a creative environment kept work fresh every day.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
