@@ -124,7 +124,7 @@ content:
         description: | # this will include new lines to allow paragraphs
 
         Thanks to the hard work from some great friends, we were able to help over 74,000 service industry workers receive 124,000 generous tips during the pandemic. I started this project from a google spreadsheet and then managed an amazing team of developers and volunteers to help people that were suddenly out of jobs.
-          
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -156,8 +156,6 @@ content:
       - Product Design
       - Manufacturing
 
-      Look at this cool image
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
