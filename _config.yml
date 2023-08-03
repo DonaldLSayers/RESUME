@@ -56,6 +56,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Chattanooga Fire Protection
         sub_title: IT Manager
         caption: 2021 - Present
@@ -86,7 +87,6 @@ content:
             Medium was a bootcamp for learning development and design. I learned here that I work best with a challenge. I worked with clients, developers and designers to make sure that our clients’ needs were met and exceeded. Working in such a creative environment kept work fresh every day.
 
       - layout: left
-        border: weak
         title: Staples
         sub_title: Easy Tech
         caption: 2007 - 2009
@@ -97,6 +97,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        border: weak
         title: Voyager Wallets
         link: voyagerwallet.com
         description: | # this will include new lines to allow paragraphs
@@ -117,7 +118,6 @@ content:
           Available shells for the NES were lacking in comfort. I fixed that. Modeled off of a popular modern console controller, you are free to play your old games with the comfort of modern controllers.
 
       - layout: top-middle
-        border: weak
         title: serviceindustry.tips
         link: serviceindustry.tips
         description: | # this will include new lines to allow paragraphs
@@ -127,6 +127,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Middle Tennessee State University
         caption: 2006 - 2007
         sub_title: Incomplete
@@ -134,7 +135,6 @@ content:
           At MTSU I was in the music program, and was studying computer science.
 
       - layout: left
-        border: weak
         title: Chattanooga State Community College
         caption: 2009 - 2010
         sub_title: Incomplete
