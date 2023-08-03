@@ -94,6 +94,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Voyager Wallets
+        link: voyagerwallet.com
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          about_profile_image: images/Donald Sayers.jpg
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          After being unhappy with the wallets available on the market, I created a premium aluminum wallet. I spent years perfecting the design in wood and plastic, and now have them CNC machined out of a block of aluminum.
+
         title: Super awesome project
         link: github.com/sproogen
         # link_text: Project Website
@@ -133,11 +149,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interest in computer Science some of my other interests and hobbies are:
+      - 3D Printing
+      - Laser Cutting
+      - Electronic Circuit Design
+      - Prop Making
+      - Product Design
+      - Manufacturing
 
       Look at this cool image
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
