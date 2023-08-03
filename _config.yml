@@ -96,28 +96,24 @@ content:
       - layout: top-middle
         title: Voyager Wallets
         link: voyagerwallet.com
-        additional_links:
         description: | # this will include new lines to allow paragraphs
           After being unhappy with the wallets available on the market, I created a premium aluminum wallet. I spent years perfecting the design in wood and plastic, and now have them CNC machined out of a block of aluminum.
 
       - layout: top-middle
         title: 3D Printing Designs
         link: www.printables.com/@DonaldSayers
-        additional_links:
         description: | # this will include new lines to allow paragraphs
           I love sharing some of the things I have created that could be useful to others. Printables has allowed me to share the designs far and wide. One of my most popular files has over 11k downloads, and people have posted over 300 makes from all over the world.
 
       - layout: top-middle
         title: Custom NES Grips
         link: nes4.fun
-        additional_links:
         description: | # this will include new lines to allow paragraphs
           Available shells for the NES were lacking in comfort. I fixed that. Modeled off of a popular modern console controller, you are free to play your old games with the comfort of modern controllers.
 
       - layout: top-middle
         title: serviceindustry.tips
         link: serviceindustry.tips
-        additional_links:
         description: | # this will include new lines to allow paragraphs
           Thanks to the hard work from some great friends, we were able to help over 74,000 service industry workers receive 124,000 generous tips during the pandemic. I started this project from a google spreadsheet and then managed an amazing team of developers and volunteers to help people that were suddenly out of jobs.
 
