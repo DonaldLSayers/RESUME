@@ -95,7 +95,7 @@ content:
     content:
       - layout: top-middle
         title: Voyager Wallets
-        link: voyagerwallet.com/
+        link: voyagerwallet.com
         # link_text: Project Website
         additional_links:
             #title:  sproogen/modern-resume-theme
@@ -107,7 +107,8 @@ content:
         #quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          After being unhappy with the wallets availabel on the market, I created a premium aluminum wallet. I spent years perfecting the design in wood and plastic, and now have them CNC machined out of a block of aluminum.
+
+          After being unhappy with the wallets available on the market, I created a premium aluminum wallet. I spent years perfecting the design in wood and plastic, and now have them CNC machined out of a block of aluminum.
 
 
   - title: Education # Title for the section
