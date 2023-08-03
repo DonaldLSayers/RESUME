@@ -101,14 +101,13 @@ content:
 
           After being unhappy with the wallets available on the market, I created a premium aluminum wallet. I spent years perfecting the design in wood and plastic, and now have them CNC machined out of a block of aluminum.
 
-    content:
       - layout: top-middle
         title: Voyager Wallets
         link: voyagerwallet.com
         additional_links:
         description: | # this will include new lines to allow paragraphs
 
-          After being unhappy with the wallets available on the market, I created a premium aluminum wallet. I spent years perfecting the design in wood and plastic, and now have them CNC machined out of a block of aluminum.          
+          After being unhappy with the wallets available on the market, I created a premium aluminum wallet. I spent years perfecting the design in wood and plastic, and now have them CNC machined out of a block of aluminum.
 
 
   - title: Education # Title for the section
