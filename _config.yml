@@ -67,6 +67,7 @@ content:
             It's been a huge challenge to get everyone onboard, but undertaking the task has been fun and rewarding.
 
       - layout: left
+        border: weak
         title: iFixie Computer Repair
         link: ifixie.com
         sub_title: Owner
@@ -77,6 +78,7 @@ content:
             I ran a computer repair shop in the downtown area. I repaired Macs and PCs as well as doing onsite work for homes and businesses. Onsite I set up networks, servers and home theater systems. Running this business was a very rewarding endeavor, I was able to learn new things and enjoyed the problem-solving challenges I was greeted with every day.
 
       - layout: left
+        border: weak
         title: Medium
         sub_title: Creative Director
         caption: 2010 - 2011
@@ -84,6 +86,7 @@ content:
             Medium was a bootcamp for learning development and design. I learned here that I work best with a challenge. I worked with clients, developers and designers to make sure that our clients’ needs were met and exceeded. Working in such a creative environment kept work fresh every day.
 
       - layout: left
+        border: weak
         title: Staples
         sub_title: Easy Tech
         caption: 2007 - 2009
@@ -100,18 +103,21 @@ content:
           After being unhappy with the wallets available on the market, I created a premium aluminum wallet. I spent years perfecting the design in wood and plastic, and now have them CNC machined out of a block of aluminum.
 
       - layout: top-middle
+        border: weak
         title: 3D Printing Designs
         link: www.printables.com/@DonaldSayers
         description: | # this will include new lines to allow paragraphs
           I love sharing some of the things I have created that could be useful to others. Printables has allowed me to share the designs far and wide. One of my most popular files has over 11k downloads, and people have posted over 300 makes from all over the world.
 
       - layout: top-middle
+        border: weak
         title: Custom NES Grips
         link: nes4.fun
         description: | # this will include new lines to allow paragraphs
           Available shells for the NES were lacking in comfort. I fixed that. Modeled off of a popular modern console controller, you are free to play your old games with the comfort of modern controllers.
 
       - layout: top-middle
+        border: weak
         title: serviceindustry.tips
         link: serviceindustry.tips
         description: | # this will include new lines to allow paragraphs
@@ -128,6 +134,7 @@ content:
           At MTSU I was in the music program, and was studying computer science.
 
       - layout: left
+        border: weak
         title: Chattanooga State Community College
         caption: 2009 - 2010
         sub_title: Incomplete
