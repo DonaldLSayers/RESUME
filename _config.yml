@@ -65,7 +65,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             I manage all the IT needs for the company. Deploying phones and laptops and managing our networks and servers. A large part of the job has been streamlining existing processes. I've digitized timesheets, workorders, billing, and many other things that were all being done on paper.
 
-            It's been a huge challenge to get everyone onboard, but undertaking the task has been fun and rewarding.
+            It's been a huge challenge to get everyone onboard, but undertaking the task has been fun and rewarding. I've
+
 
             At Chattanooga Fire I use;
 
@@ -74,7 +75,7 @@ content:
             <mark>Crystal Reports</mark> I created reports for job costs, payroll, taxes, and to make looking trough massive amounts of data more accessable.
 
             <mark>Excel/Google Pages</mark> Used mostly for pivot tables and for making tools for importing and translating data from one database to another.
-            
+
 
       - layout: left
         border: weak
