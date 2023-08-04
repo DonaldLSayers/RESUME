@@ -92,9 +92,7 @@ content:
         caption: 2007 - 2009
         description: | # this will include new lines to allow paragraphs
             Staples is where I was able to grow my love for technology. I was responsible for fixing computers and training new employees. I was given the freedom to develop new and more efficient ways to repair and track repairs customers computers.
-
-
-
+            <br/><br/>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -125,9 +123,7 @@ content:
         link: serviceindustry.tips
         description: | # this will include new lines to allow paragraphs
           Thanks to the hard work from some great friends, we were able to help over 74,000 service industry workers receive 124,000 generous tips during the pandemic. I started this project from a google spreadsheet and then managed an amazing team of developers and volunteers to help people that were suddenly out of jobs.
-
-
-
+          <br/><br/>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -146,10 +142,8 @@ content:
         sub_title: Incomplete
         description: | # this will include new lines to allow paragraphs
           Studied computer science and took some cources in drafting and 3D CAD.
+          <br/><br/>
 
-
-
-          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
