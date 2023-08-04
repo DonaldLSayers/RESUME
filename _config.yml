@@ -67,6 +67,11 @@ content:
 
             It's been a huge challenge to get everyone onboard, but undertaking the task has been fun and rewarding.
 
+            At Chattanooga Fire I use;
+            <mark>Sage 300</mark> made tools to import data to and from other systems.
+            <mark>Crystal Reports</mark> I created reports for job costs, payroll, taxes, and to make looking trough massive amounts of data more accessable.
+            <mark>Excel/Google Pages</mark> Used mostly for pivot tables and for making tools for importing and translating data from one database to another.
+
       - layout: left
         border: weak
         title: iFixie Computer Repair
