@@ -65,8 +65,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             I manage all the IT needs for the company. Deploying phones and laptops and managing our networks and servers. A large part of the job has been streamlining existing processes. I've digitized timesheets, workorders, billing, and many other things that were all being done on paper.
 
-            It's been a huge challenge to get everyone onboard, but undertaking the task has been fun and rewarding. I've
-
+            It's been a huge challenge to get everyone onboard, but undertaking the task has been fun and rewarding.
+            <br/>
 
             At Chattanooga Fire I use;
 
