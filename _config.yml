@@ -76,6 +76,8 @@ content:
 
             <mark>Excel/Google Pages</mark> Used mostly for pivot tables and for making tools for importing and translating data from one database to another.
 
+            <mark>Windows Server</mark> is used to host our financial software. Making The server secure while allowing remote access through a VPN has helped allow people in the compan better access to the data.
+
 
       - layout: left
         border: weak
@@ -87,6 +89,15 @@ content:
           I loved being greeted every day with a new challange.
         description: | # this will include new lines to allow paragraphs
             I ran a computer repair shop in the downtown area. I repaired Macs and PCs as well as doing onsite work for homes and businesses. Onsite I set up networks, servers and home theater systems. Running this business was a very rewarding endeavor, I was able to learn new things and enjoyed the problem-solving challenges I was greeted with every day.
+            <br/><br/>
+
+            Some of the things I did running iFixie;
+
+            <mark>Data Recovery</mark> This was something I specialized in I used various software and hardware tools to get importand data of of dead/dying harddrives.
+
+            <mark>Networking</mark> I upgraded hundreds of business and home networks. I managed pfsense, ubiquiti, and meraki networks.
+
+            <mark>Computer Repair</mark> Repairing apple products and PCs I learned a lot about trouble shooting problems. I like dealing with small devices and replacing falty parts.
 
       - layout: left
         border: weak
