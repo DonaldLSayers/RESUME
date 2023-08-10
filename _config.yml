@@ -136,6 +136,10 @@ content:
         link: www.printables.com/@DonaldSayers
         description: | # this will include new lines to allow paragraphs
           I love sharing some of the things I have created that could be useful to others. Printables has allowed me to share the designs far and wide. One of my most popular files has over 11k downloads, and people have posted over 300 makes from all over the world.
+          <br/><br/>
+
+          <mark>FUSION 360</mark> Making designs specifically for 3D printing really tickles my brain. I try to design everythign to not require supports to make them easier and cleaner to print. 
+          <br/><br/>
 
       - layout: top-middle
         border: weak
