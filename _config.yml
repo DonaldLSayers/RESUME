@@ -138,7 +138,7 @@ content:
           I love sharing some of the things I have created that could be useful to others. Printables has allowed me to share the designs far and wide. One of my most popular files has over 11k downloads, and people have posted over 300 makes from all over the world.
           <br/><br/>
 
-          <mark>FUSION 360</mark> Making designs specifically for 3D printing really tickles my brain. I try to design everythign to not require supports to make them easier and cleaner to print. 
+          <mark>FUSION 360</mark> Making designs specifically for 3D printing really tickles my brain. I try to design everythign to not require supports to make them easier and cleaner to print.
           <br/><br/>
 
       - layout: top-middle
@@ -147,7 +147,7 @@ content:
         link: nes4.fun
         description: | # this will include new lines to allow paragraphs
           Available shells for the NES were lacking in comfort. I fixed that. Modeled off of a popular modern console controller, you are free to play your old games with the comfort of modern controllers.
-
+          <br/><br/>
       - layout: top-middle
         title: serviceindustry.tips
         link: serviceindustry.tips
