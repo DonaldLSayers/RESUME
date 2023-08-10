@@ -148,6 +148,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Available shells for the NES were lacking in comfort. I fixed that. Modeled off of a popular modern console controller, you are free to play your old games with the comfort of modern controllers.
           <br/><br/>
+
       - layout: top-middle
         title: serviceindustry.tips
         link: serviceindustry.tips
