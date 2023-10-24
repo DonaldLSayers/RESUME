@@ -63,7 +63,7 @@ content:
         quote: >
           Implementing tech for a company that was using paper for just about everything.
         description: | # this will include new lines to allow paragraphs
-            I manage all the IT needs for the company. Deploying phones and laptops and managing our networks and servers. A large part of the job has been streamlining existing processes. I've digitized timesheets, workorders, billing, and many other things that were all being done on paper.
+            I manage all the IT needs for the company. Deploying phones and laptops and managing our networks and servers. A large part of the job has been streamlining existing processes. I've digitized time sheets, work orders, billing, and many other things that were all being done on paper.
 
             It's been a huge challenge to get everyone onboard. I spend time building trust with fellow employees so that when we make a change they are less likely to push back. Undertaking the task has been fun and rewarding.
             <br/><br/>
@@ -72,11 +72,11 @@ content:
 
             <mark>Sage 300</mark> made tools to import data to and from other systems.
 
-            <mark>Crystal Reports</mark> I created reports for job costs, payroll, taxes, and to make looking trough massive amounts of data more accessable.
+            <mark>Crystal Reports</mark> I created reports for job costs, payroll, taxes, and to make looking trough massive amounts of data more accessible.
 
             <mark>Excel/Google Pages</mark> Used mostly for pivot tables and for making tools for importing and translating data from one database to another.
 
-            <mark>Windows Server</mark> is used to host our financial software. Making The server secure while allowing remote access through a VPN has helped allow people in the compan better access to the data.
+            <mark>Windows Server</mark> is used to host our financial software. Making The server secure while allowing remote access through a VPN has helped allow people in the company better access to the data.
             <br/><br/>
 
       - layout: left
@@ -93,11 +93,11 @@ content:
 
             Some of the things I did running iFixie;
 
-            <mark>Data Recovery</mark> This was something I specialized in I used various software and hardware tools to get importand data of of dead/dying harddrives.
+            <mark>Data Recovery</mark> This was something I specialized in I used various software and hardware tools to get important data of of dead/dying hard drives.
 
             <mark>Networking</mark> I upgraded hundreds of business and home networks. I managed pfsense, ubiquiti, and meraki networks.
 
-            <mark>Computer Repair</mark> Repairing apple products and PCs, I learned a lot about trouble shooting problems. I like dealing with small devices and replacing falty parts.
+            <mark>Computer Repair</mark> Repairing apple products and PCs, I learned a lot about trouble shooting problems. I like dealing with small devices and replacing faulty parts.
             <br/><br/>
 
       - layout: left
@@ -106,7 +106,7 @@ content:
         sub_title: Creative Director
         caption: 2010 - 2011
         description: | # this will include new lines to allow paragraphs
-            Medium was a bootcamp for learning development and design. I learned here that I work best with a challenge. I worked with clients, developers and designers to make sure that our clients’ needs were met and exceeded. Working in such a creative environment kept work fresh every day.
+            Medium was a boot camp for learning development and design. I learned here that I work best with a challenge. I worked with clients, developers and designers to make sure that our clients needs were met and exceeded. Working in such a creative environment kept work fresh every day.
 
       - layout: left
         title: Staples
@@ -127,7 +127,7 @@ content:
           After being unhappy with the wallets available on the market, I created a premium aluminum wallet. I spent years perfecting the design in wood and plastic, and now have them CNC machined out of a block of aluminum.
           <br/><br/>
 
-          <mark>CAD/CAM</mark> I loved managing cost for this project. When designing I had to make decisions to cut the cost of having the milled out of aluminum. My origional design made for a laser cutter or a 3D printer would have been about 4 times as expensive to manufacture on a CNC machine. The biggest thing I learned was to cut down on tool changes to reduse cost of machining.
+          <mark>CAD/CAM</mark> I loved managing cost for this project. When designing I had to make decisions to cut the cost of having the milled out of aluminum. My original design made for a laser cutter or a 3D printer would have been about 4 times as expensive to manufacture on a CNC machine. The biggest thing I learned was to cut down on tool changes to reduse cost of machining.
           <br/><br/>
 
       - layout: top-middle
@@ -138,7 +138,7 @@ content:
           I love sharing some of the things I have created that could be useful to others. Printables has allowed me to share the designs far and wide. One of my most popular files has over 11k downloads, and people have posted over 300 makes from all over the world.
           <br/><br/>
 
-          <mark>FUSION 360</mark> Making designs specifically for 3D printing really tickles my brain. I try to design everythign to not require supports to make them easier and cleaner to print.
+          <mark>FUSION 360</mark> Making designs specifically for 3D printing really tickles my brain. I try to design everything to not require supports to make them easier and cleaner to print.
           <br/><br/>
 
       - layout: top-middle
@@ -172,7 +172,7 @@ content:
         caption: 2009 - 2010
         sub_title: Incomplete
         description: | # this will include new lines to allow paragraphs
-          Studied computer science and took some cources in drafting and 3D CAD.
+          Studied computer science and took some courses in drafting and 3D CAD.
           <br/><br/>
 
   - title: A Little More About Me
