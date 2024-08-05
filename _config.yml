@@ -48,7 +48,7 @@ about_profile_image: images/Donald Sayers.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Donald I'm an IT manager for a company of 150+ people. As well as working in IT, I like to make things and tinker with electronics. I ran an independent computer repair company for about 15 years.
 
-  I am most skilled in: <mark>Computer Stuff</mark>, <mark>3D Printing</mark>, and <mark>Petting Cats</mark>.
+  I am most skilled in: <mark>Information Technology</mark>, <mark>3D Printing</mark>, and <mark>Petting Cats</mark>.
 
 content:
 
@@ -58,7 +58,7 @@ content:
       - layout: left
         border: weak
         title: Chattanooga Fire Protection
-        sub_title: IT Manager
+        sub_title: Technology Manager
         caption: 2021 - Present
         quote: >
           Implementing tech for a company that was using paper for just about everything.
@@ -74,9 +74,13 @@ content:
 
             <mark>Crystal Reports</mark> I created reports for job costs, payroll, taxes, and to make looking trough massive amounts of data more accessible.
 
-            <mark>Excel/Google Pages</mark> Used mostly for pivot tables and for making tools for importing and translating data from one database to another.
+            <mark>Excel/Google Sheets</mark> Used mostly for pivot tables and for making tools for importing and translating data from one database to another.
+
+            <mark>Financial Reporting</mark> I manage numerous reports and journal entries for the company. These reports make importing information from other accounts into our system easier and cuts down mistakes that come from manually entering this information.
 
             <mark>Windows Server</mark> is used to host our financial software. Making The server secure while allowing remote access through a VPN has helped allow people in the company better access to the data.
+
+            <mark>Board of Director Reports</mark> I often report directly to the board. I plan and schedual implementations to new systems, provide financial reports for the company, and budget for new technology and purchases.
             <br/><br/>
 
       - layout: left
