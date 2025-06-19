@@ -73,7 +73,7 @@ content:
 
             <mark>Sage 300</mark> made tools to import data to and from other systems.
 
-            <mark>Crystal Reports</mark> I created reports for job costs, payroll, taxes, and to make looking trough massive amounts of data more accessible.
+            <mark>Crystal Reports</mark> I created reports for job costs, payroll, taxes, and to make looking through massive amounts of data more accessible.
 
             <mark>Excel/Google Sheets</mark> Used mostly for pivot tables and for making tools for importing and translating data from one database to another.
 
@@ -81,7 +81,7 @@ content:
 
             <mark>Windows Server</mark> is used to host our financial software. Making The server secure while allowing remote access through a VPN has helped allow people in the company better access to the data.
 
-            <mark>Board of Director Reports</mark> I often report directly to the board. I plan and schedual implementations to new systems, provide financial reports for the company, and budget for new technology and purchases.
+            <mark>Board of Director Reports</mark> I often report directly to the board. I plan and schedule implementations to new systems, provide financial reports for the company, and budget for new technology and purchases.
             <br/><br/>
 
       - layout: left
@@ -91,7 +91,7 @@ content:
         sub_title: Owner
         caption: 2009 - 2021
         quote: >
-          I loved being greeted every day with a new challange.
+          I loved being greeted every day with a new challenge.
         description: | # this will include new lines to allow paragraphs
             I ran a computer repair shop in the downtown area. I repaired Macs and PCs as well as doing onsite work for homes and businesses. Onsite I set up networks, servers and home theater systems. Running this business was a very rewarding endeavor, I was able to learn new things and enjoyed the problem-solving challenges I was greeted with every day.
             <br/><br/>
@@ -125,6 +125,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: serviceindustry.tips
+        link: serviceindustry.tips
+        description: | # this will include new lines to allow paragraphs
+          Thanks to the hard work from some great friends, we were able to help over 74,000 service industry workers receive 124,000 generous tips during the pandemic. I started this project from a google spreadsheet and then managed an amazing team of developers and volunteers to help people that were suddenly out of jobs.
+          <br/><br/>
+
+      - layout: top-middle
         border: weak
         title: Voyager Wallets
         link: voyagerwallet.com
@@ -140,7 +147,7 @@ content:
         title: 3D Printing Designs
         link: www.printables.com/@DonaldSayers
         description: | # this will include new lines to allow paragraphs
-          I love sharing some of the things I have created that could be useful to others. Printables has allowed me to share the designs far and wide. One of my most popular files has over 11k downloads, and people have posted over 300 makes from all over the world.
+          I love sharing some of the things I have created that could be useful to others. Printables has allowed me to share the designs far and wide. One of my most popular files has over 21k downloads, and people have posted over 300 makes from all over the world.
           <br/><br/>
 
           <mark>FUSION 360</mark> Making designs specifically for 3D printing really tickles my brain. I try to design everything to not require supports to make them easier and cleaner to print.
@@ -152,14 +159,6 @@ content:
         link: nes4.fun
         description: | # this will include new lines to allow paragraphs
           Available shells for the NES were lacking in comfort. I fixed that. Modeled off of a popular modern console controller, you are free to play your old games with the comfort of modern controllers.
-          <br/><br/>
-
-      - layout: top-middle
-        title: serviceindustry.tips
-        link: serviceindustry.tips
-        description: | # this will include new lines to allow paragraphs
-          Thanks to the hard work from some great friends, we were able to help over 74,000 service industry workers receive 124,000 generous tips during the pandemic. I started this project from a google spreadsheet and then managed an amazing team of developers and volunteers to help people that were suddenly out of jobs.
-          <br/><br/>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
