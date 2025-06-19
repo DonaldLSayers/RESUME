@@ -1,3 +1,6 @@
+additional_css:
+  - /assets/css/print.css
+
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
